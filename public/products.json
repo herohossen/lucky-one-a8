@@ -4,23 +4,23 @@
     "brand": "Ferrari",
     "name": "FTurbo",
     "color": "Yellow",
-    "price": 500000000,
+    "price": 50000000,
     "img": "https://images.unsplash.com/photo-1632441730372-d8509de481d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
     {
     "id": "2",
     "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
+    "name": "FerrariBlack",
+    "color": "Black",
+    "price": 75000000,
     "img": "https://images.unsplash.com/photo-1617654112329-c446806d40e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=795&q=80"
   },
   {
     "id": "3",
     "brand": "Ferari",
-    "name": "hhhhh",
-    "color": "Yellow",
-    "price": 500000000,
+    "name": "FerariV1",
+    "color": "Red",
+    "price": 91000000,
     "img": "https://i.ibb.co/9yGVWYF/ferarired.jpg"
   },
   {
