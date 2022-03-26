@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+Project Hosted in[https://car-world.netlify.app/](https://car-world.netlify.app/).
 
-This project was bootstrapped with [https://car-world.netlify.app/](https://car-world.netlify.app/).
+## Getting Started with Create React App
+
 
 ## Available Scripts
 
