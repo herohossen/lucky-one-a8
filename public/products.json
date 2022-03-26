@@ -25,67 +25,47 @@
   },
   {
     "id": "4",
-    "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    "brand": "Ford",
+    "name": "Ford-Mustang-GT",
+    "color": "Black",
+    "price": 650000000,
+    "img": "https://i.ibb.co/tBD0Ycx/Ford-Mustang-GT.jpg"
   },  {
     "id": "5",
-    "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    "brand": "Ford",
+    "name": "Ford gs",
+    "color": "Black",
+    "price": 400000000,
+    "img": "https://i.ibb.co/9ykfMv2/ford.jpg"
   },  {
     "id": "6",
-    "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
-  },  {
+    "brand": "Honda",
+    "name": "Honda cr v 2022",
+    "color": "Black",
+    "price": 650000000,
+    "img": "https://i.ibb.co/QkTgDyx/honda-cr-v-2022.jpg"
+  },  
+{
     "id": "7",
-    "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
-  },  {
+    "brand": "Lexus",
+    "name": "Lexus RC 350",
+    "color": "White",
+    "price": 350000000,
+    "img": "https://i.ibb.co/WgLSQH9/Lexus-RC-350.jpg"
+  },  
+{
     "id": "8",
-    "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    "brand": "Porsche",
+    "name": "porsche-781",
+    "color": "Silver",
+    "price": 516000000,
+    "img": "https://i.ibb.co/1zV9zj6/porsche-781.jpg"
   },  {
     "id": "9",
-    "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
-  },  {
-    "id": "10",
-    "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
-  },  {
-    "id": "11",
-    "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
-  },
-  {
-    "id": "12",
-    "brand": "Ferari",
-    "name": "v1Ferrari",
-    "color": "Yellow",
-    "price": 500000000,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    "brand": "Tesla",
+    "name": "Tesla fans schweiz",
+    "color": "Blue",
+    "price": 359000000,
+    "img": "https://i.ibb.co/1r7vfmx/tesla-fans-schweiz.jpg"
   }
 ]

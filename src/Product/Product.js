@@ -11,10 +11,10 @@ const Product = ({product,handleAddToCart}) => {
  <div className="product-container">
   <img src={img} alt="Avatar"/>
 <div className='product-info'>
-<p className="product-name">{name}</p>
-<p className="product-brand">{brand}</p>
-<p className="product-color">{color}</p>
-<p className="product-price">{price}</p>
+<p className="product-name"><b>Name:</b> {name}</p>
+<p className="product-brand"><b>Brand:</b> {brand}</p>
+<p className="product-color"><b>Color:</b> {color}</p>
+<p className="product-price"><b>Price:</b> {price}</p>
 </div>
 <button onClick={()=>handleAddToCart(product)}  className='btn-cart'>
     <p >Add to cart </p><AiOutlineShoppingCart className='icon'/>
