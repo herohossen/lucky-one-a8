@@ -37,8 +37,10 @@ const Shop = () => {
     }
 
     const handleChooseOneForMe = () =>{
-        const randomItem = [carts[Math.floor(Math.random() * carts.length)]];
-        setCarts(randomItem);
+        if(carts.length > 0){
+            const randomItem = [carts[Math.floor(Math.random() * carts.length)]];
+            setCarts(randomItem);
+        }
     }
 
     return (
