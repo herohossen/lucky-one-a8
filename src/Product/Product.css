@@ -33,8 +33,16 @@
       border-radius:0px 0px 8px 8px ;
       position: absolute;
       bottom: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
   }
-  
+  .icon {
+    height: 17px;
+    width: 17px;
+    border-radius: 0px;
+    padding-left: 6px;
+  }
   .btn-cart:hover {
     background-color: orange;
   }

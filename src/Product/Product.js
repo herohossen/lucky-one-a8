@@ -1,5 +1,6 @@
 import React from 'react';
 import './Product.css'
+import { AiOutlineShoppingCart } from 'react-icons/ai';
 
 const Product = ({product,handleAddToCart}) => {
     // const []=props.product;
@@ -16,7 +17,7 @@ const Product = ({product,handleAddToCart}) => {
 <p className="product-price">{price}</p>
 </div>
 <button onClick={()=>handleAddToCart(product)}  className='btn-cart'>
-    <p >Add to cart</p>
+    <p >Add to cart </p><AiOutlineShoppingCart className='icon'/>
 </button>
 </div>
 

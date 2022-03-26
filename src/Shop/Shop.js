@@ -3,6 +3,7 @@ import Product from '../Product/Product';
 import Cart from '../Cart/Cart';
 import './Shop.css'
 
+
 const Shop = () => {
     const [products,setProducts] = useState([]);
     const [carts,setCarts] = useState([]);
