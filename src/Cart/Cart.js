@@ -1,6 +1,6 @@
 import React from 'react';
 import './Cart.css'
-
+import { MdDelete } from 'react-icons/md';
 const Cart = ({carts,handleResetCart,handleChooseOneForMe, handleRemoveSingleCartItem}) => {
 
     return (
@@ -11,9 +11,12 @@ const Cart = ({carts,handleResetCart,handleChooseOneForMe, handleRemoveSingleCar
                 carts.map((cart) => {
                     return (
                         <div key={cart.id}>
+                            <div className='cart-info'>
                             <img src={cart.img} alt="Avatar" width={50}/>
-                            <h4>{ cart.name}</h4>
-                            <button  onClick={() => handleRemoveSingleCartItem(cart.id)}>remove</button>
+                            <p>{ cart.name}</p>
+                            <button className='btn-removesingleCart'  onClick={() => handleRemoveSingleCartItem(cart.id)}><MdDelete/></button>
+                            </div>
+
                         </div>
                     );
                 })
